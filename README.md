@@ -5,7 +5,7 @@ Primeiro trabalho de POO / Questões propostas
 
 | Questões | Enunciado |
 | ------------- | -------------- |
-|  `02`  | Faça um programa que receba tres numeros, calcule e mostre a multiplicaçao desses numeros  |
+|  `02`  | 
 |  `05`  | Façaum programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10% |
 |  `06`  |  Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo de um funcionário e o valor de suas vendas, calcule e mostre a comissão e o salário final do funcionário |  
 |  `08`  | Façaum programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas |        
